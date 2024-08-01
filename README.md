@@ -3,7 +3,11 @@
 
 - 🌱 I’m currently studying **Computer Engineering at the University of Malaga**
 
+- 🔐 I recently finished a University Extension Course in Blockchain Technologies. It was structured in 7 modules and a final project consisting on developing an MPC wallet.
+  The course program can be found here: https://www.nics.uma.es/Blockchain/
+
 - 📫 How to reach me **lauragranda@uma.es**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
