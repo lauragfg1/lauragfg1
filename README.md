@@ -6,7 +6,7 @@
 - 🔐 I recently finished the University Extension Course in Blockchain Technologies. It was structured in 7 modules and a final project consisting on developing an MPC wallet.
   The course program can be found here: https://www.nics.uma.es/Blockchain/
 
-- 📫 How to reach me **lauragranda@uma.es**
+- 📫 How to reach me **lauragfg85@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
